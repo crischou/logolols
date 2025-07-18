@@ -1,1 +1,2 @@
-# logolols
+# LogoLols
+For fun
