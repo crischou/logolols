@@ -1,0 +1,25 @@
+:root {
+    --logo-color: orange;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black
+}
+h1 {
+    color: skyblue;
+    background-color: black;
+}
+.logo {
+    color: var(--logo-color);
+    font-weight: bold;
+}
+.lols {
+    color: skyblue;
+    font-weight: normal;
+}
+.centered-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
