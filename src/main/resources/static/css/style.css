@@ -23,3 +23,12 @@ h1 {
     align-items: center;
     height: 60vh;
 }
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: orangered;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
